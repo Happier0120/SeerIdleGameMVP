@@ -1,0 +1,17 @@
+:root {
+  color-scheme: light;
+  --bg: #dff7e8;
+  --shell-bg: #f7fff6;
+  --surface: #ffffff;
+  --surface-strong: #eff9ff;
+  --text: #18302a;
+  --muted: #64746e;
+  --line: rgba(24, 48, 42, 0.12);
+  --green: #47b774;
+  --green-dark: #248755;
+  --blue: #4097d7;
+  --amber: #f0a833;
+  --pink: #ee7695;
+  --danger: #db5f50;
+  --shadow: 0 18px 40px rgba(25, 63, 47, 0.15);
+}
